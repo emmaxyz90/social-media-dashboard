@@ -331,12 +331,12 @@ footer .attribution a:hover {
 	
 	#dashboard .container{
 		padding: 0;
-		margin: 0 24%;
-		width: 50%;
+		margin: 0 30px;
+		width: 70%;
 	}
 	
 	#dashboard .container .section{
-		margin: 5px 20%;
+		margin: 5px 0;
 
 		
 		
@@ -344,13 +344,13 @@ footer .attribution a:hover {
 	
 	#overview .container{
 		padding: 3% 0;
-		margin: 0 20%;
-		width: 50%;
+		margin: 0 30px;
+		width: 70%;
 	}
 	
 	#overview .container .section-top .section{
 		margin-bottom: 10px;
-			margin: auto;
+			
 		
 	}
 }
