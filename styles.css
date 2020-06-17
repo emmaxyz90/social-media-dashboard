@@ -337,8 +337,8 @@ footer .attribution a:hover {
 	
 	#dashboard .container .section{
 		margin-bottom: 10px;
-		margin-right
-		: 0px;
+		margin
+		: auto;
 		
 	}
 	
@@ -350,7 +350,8 @@ footer .attribution a:hover {
 	
 	#overview .container .section-top .section{
 		margin-bottom: 10px;
-			margin-bottom: 0px;
+			margin: auto;
+		
 	}
 }
 
